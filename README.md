@@ -1,6 +1,6 @@
 # flutter_chat_app
 
-A new Flutter project.
+chat app using Socket.IO
 
 ## Getting Started
 
